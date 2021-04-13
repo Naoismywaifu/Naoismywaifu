@@ -27,4 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naoismywaifu&show_icons=true&theme=dark&locale=en&layout=compact" alt="naoismywaifu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naoismywaifu&show_icons=true&theme=dark&locale=en" alt="naoismywaifu" /></p>
+<a href="https://top.gg/bot/800724319562629140">
+  <img src="https://top.gg/api/widget/800724319562629140.svg" alt="Nao" />
+  </a>
+
