@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Brainfuck**
 
-- 👨‍💻 All of my projects are available at [nao.rip](nao.rip)
+- 👨‍💻 All of my projects are available at [nao.dev](nao.dev)
 
 - 💬 Ask me about **C**
 
