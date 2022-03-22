@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Nao**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Brainfuck**
 
-- 👨‍💻 All of my projects are available at [nao.dev](nao.dev)
+- 👨‍💻 All of my projects are available at [nao.rip](nao.rip)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **C**
 
 - 📫 How to reach me **Nao#0999 on Discord**
 
