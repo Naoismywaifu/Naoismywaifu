@@ -7,19 +7,18 @@
 
 - 🌱 I’m currently learning **Brainfuck**
 
-- 👨‍💻 All of my projects are available at [nao.dev](nao.dev)
+- 👨‍💻 All of my projects are available at [nao.rip](nao.rip)
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **Anime**
 
-- 📫 How to reach me **Nao#0999 on Discord**
+- 📫 How to reach me **Nao373 on Discord**
 
 - ⚡ Fun fact **i like anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/niewiederpubg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="niewiederpubg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nao" height="30" width="40" /></a>
-<a href="https://discord.gg/545tamc5ZD" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="545tamc5ZD" height="30" width="40" /></a>
+<a href="https://discord.gg/naoshop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="545tamc5ZD" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
